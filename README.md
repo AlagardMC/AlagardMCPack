@@ -1,2 +1,2 @@
-# resource_pack
+# AlagardMC Pack
 The official resource pack for AlagardMC
